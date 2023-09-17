@@ -16,13 +16,13 @@ export const sampleProducts: Product[] = [
   {
     name: 'Nike Slim Pant',
     slug: 'nike-slim-pant',
-    category: 'Shirts',
-    image: '../images/p1.jpg',
-    price: 120,
-    countInStock: 10,
+    category: 'Pants',
+    image: '../images/p4.jpg',
+    price: 78,
+    countInStock: 15,
     brand: 'Nike',
     rating: 4.5,
-    numReviews: 10,
+    numReviews: 14,
     description: 'high quality shirt',
   },
   {
