@@ -13,18 +13,7 @@ export const sampleProducts: Product[] = [
     numReviews: 10,
     description: 'high quality shirt',
   },
-  {
-    name: 'Nike Slim Pant',
-    slug: 'nike-slim-pant',
-    category: 'Pants',
-    image: '../images/p4.jpg',
-    price: 78,
-    countInStock: 15,
-    brand: 'Nike',
-    rating: 4.5,
-    numReviews: 14,
-    description: 'high quality shirt',
-  },
+
   {
     name: 'Adidas Fit Shirt',
     slug: 'adidas-fit-shirt',
@@ -47,6 +36,18 @@ export const sampleProducts: Product[] = [
     brand: 'Lacos',
     rating: 4.8,
     numReviews: 17,
+    description: 'high quality shirt',
+  },
+  {
+    name: 'Nike Slim Pant',
+    slug: 'nike-slim-pant',
+    category: 'Pants',
+    image: '../images/p4.jpg',
+    price: 78,
+    countInStock: 15,
+    brand: 'Nike',
+    rating: 4.5,
+    numReviews: 14,
     description: 'high quality shirt',
   },
 ]
