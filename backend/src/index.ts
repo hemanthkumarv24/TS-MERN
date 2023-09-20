@@ -8,5 +8,5 @@ app.get('/api/products', (req: Request, res: Response) => {
 
 const PORT = 4000
 app.listen(PORT, () => {
-  console.log('Server started at http://localhost:${PORT}')
+  console.log(`Server started at http://localhost:${PORT}`)
 })
