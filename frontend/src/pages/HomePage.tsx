@@ -67,7 +67,7 @@ export default function HomePage() {
   ) : (
     <Row>
       {products.map((product) => (
-        <Col key={product.slug} sm={6} md={4} lg='2'>
+        <Col key={product.slug} sm={6} md={4} lg="2">
           <Link to={'/product/' + product.slug}>
             <img
               src={product.image}
