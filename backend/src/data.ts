@@ -32,7 +32,7 @@ export const sampleProducts: Product[] = [
     category: 'Pants',
     image: '../images/p3.jpg',
     price: 220,
-    countInStock: 1,
+    countInStock: 0,
     brand: 'Lacos',
     rating: 4.8,
     numReviews: 17,
