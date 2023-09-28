@@ -16,10 +16,13 @@
    3. add product images
    4. render products
 
-6. Created Backend
+6. Add BootStrap
 
-   1. Added product Details
+7. Page Routing
 
-7. Rendering the Backend using /api/products
+8. Node Server
 
-8. API type calling using AXIOS
+   1. Created Backend Folder
+   2. Added data.ts file (Products)
+
+9. API type calling using AXIOS
