@@ -27,6 +27,9 @@
    3. creating express server by function call and assigned to app
 
 9. Fetching Products
+
    1. install AXIOS
    2. Checking condition whether it is development server , if it is then url is seet to backend host
    3. Defining types in homepage for State to fetch ,process and to check errors
+
+10. Added ratings
