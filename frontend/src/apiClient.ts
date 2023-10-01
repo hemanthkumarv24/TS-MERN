@@ -2,7 +2,7 @@ import axios from 'axios'
 
 const apiClient = axios.create({
   baseURL:
-    process.env.NODE_ENV === 'development' ? 'https://localhost:5001' : '/',
+    process.env.NODE_ENV === 'development' ? 'https://localhost:5001/' : '/',
   headers: {
     'Content-Type': 'application/json',
   },
