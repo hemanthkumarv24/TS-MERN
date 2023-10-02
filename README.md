@@ -33,3 +33,5 @@
    3. Defining types in homepage for State to fetch ,process and to check errors
 
 10. Added rating
+
+11. changed title
