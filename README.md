@@ -35,3 +35,5 @@
 10. Added rating
 
 11. changed title
+    1. for home page as TSAMAZON
+    2.
