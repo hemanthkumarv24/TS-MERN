@@ -41,6 +41,4 @@
 
     feeling sleepy
     even today feelinng
-    having MCES exam 😥😓
-
-    thought of doing some work but i can't now
+    h
