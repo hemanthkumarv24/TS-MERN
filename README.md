@@ -39,4 +39,8 @@
     1. for home page as TSAMAZON
     2. For products page as Products
 
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 22efde9f8baedf48a5ad98ff00e5d543c771e5c7
