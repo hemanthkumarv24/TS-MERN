@@ -40,7 +40,5 @@
     2. For products page as Products
 
 <<<<<<< HEAD
- 
-=======
 
->>>>>>
+=======
