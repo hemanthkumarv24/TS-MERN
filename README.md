@@ -53,3 +53,8 @@ Object syntax :
 arrayName.map((arr) => {
    return arr+"1"
 })
+
+.filter function:
+arrayname.filter((arr) => {
+   console.log(arr? arr!="Myname" : "")
+})
