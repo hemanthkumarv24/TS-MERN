@@ -47,4 +47,3 @@ Object syntax :
       key:value,
       key:value2,
    }
-   
