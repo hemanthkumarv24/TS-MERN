@@ -41,3 +41,10 @@
 
    
 use ... to import all the values , variables ,names etc from one array to another or from one object to another
+
+Object syntax :
+   const object = {
+      key:value,
+      key:value2,
+   }
+   
