@@ -40,3 +40,4 @@
     2. For products page as Product
 
    
+use ... to import all the values , variables ,names etc from one array to another or from one object to another
