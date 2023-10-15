@@ -47,3 +47,9 @@ Object syntax :
       key:value,
       key:value2,
    }
+
+
+.map function:
+arrayName.map((arr) => {
+   return arr+"1"
+})
