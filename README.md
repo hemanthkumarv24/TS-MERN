@@ -63,5 +63,5 @@ arrayname.filter((arr) => {
 
 
 DO well in yor pythonn exam
-
+okkk
 
