@@ -59,4 +59,5 @@ arrayname.filter((arr) => {
    console.log(arr? arr!="Myname" : "")
 })
 
-
+7410
+8520
