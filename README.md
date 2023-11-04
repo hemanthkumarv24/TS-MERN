@@ -60,7 +60,6 @@ arrayname.filter((arr) => {
 })
 
 
-i laodnfobrsuoD Sihohfedvhj wisdjpj s
 
 
 
