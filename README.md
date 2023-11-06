@@ -60,6 +60,5 @@ arrayname.filter((arr) => {
 })
 
 
-dftgyhjnkml,.
 
 
