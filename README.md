@@ -60,9 +60,4 @@ arrayname.filter((arr) => {
 })
 
 
-vknxljn
-
-
-
-
 
