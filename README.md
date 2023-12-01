@@ -59,7 +59,7 @@ arrayname.filter((arr) => {
    console.log(arr? arr!="Myname" : "")
 })
 
-
+fd,jsd, v
 
 
 
