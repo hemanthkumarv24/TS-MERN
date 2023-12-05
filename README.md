@@ -59,6 +59,8 @@ arrayname.filter((arr) => {
    console.log(arr? arr!="Myname" : "")
 })
 
+enne nu soda nu ondu olle frrds
+ondanondu bittu irodilla endu
 
 
 
