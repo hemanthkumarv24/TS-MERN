@@ -60,7 +60,6 @@ arrayname.filter((arr) => {
 })
 
 enne nu soda nu ondu olle frrds
-ondanondu bittu irodilla endu
 
 
 
