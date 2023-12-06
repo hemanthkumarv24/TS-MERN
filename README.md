@@ -62,8 +62,5 @@ arrayname.filter((arr) => {
 
 
 
-enammi enammi 
-
-
 
 
