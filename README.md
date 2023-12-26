@@ -58,7 +58,6 @@ arrayName.map((arr) => {
 arrayname.filter((arr) => {
    console.log(arr? arr!="Myname" : "")
 })
-sdzv
 
 
 
