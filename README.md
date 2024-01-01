@@ -64,8 +64,7 @@ arrayname.filter((arr) => {
 
 
 
-She is not mine
-i wanwt sorjeso fs finxck 
+
 
 
 
