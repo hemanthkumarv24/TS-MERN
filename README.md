@@ -1,4 +1,4 @@
-asadjlcakjs # TypeScript MERN AMAZON
+ # TypeScript MERN AMAZON
 
 ## Lessions
 
