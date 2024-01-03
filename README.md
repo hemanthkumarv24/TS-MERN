@@ -1,6 +1,5 @@
  # TypeScript MERN AMAZON
 
-Expecting Something
 
 ## Lessions
 
