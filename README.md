@@ -1,6 +1,6 @@
  # TypeScript MERN AMAZON
 
-Help ussss with out
+
 
 ## Lessions
 
