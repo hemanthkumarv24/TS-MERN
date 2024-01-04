@@ -1,6 +1,5 @@
  # TypeScript MERN AMAZON
 
-Good morning Hemanth
 
 ## Lessions
 
