@@ -1,7 +1,7 @@
  # TypeScript MERN AMAZON
 
 Good morning Hemanth
-
+have a nice day
 ## Lessions
 
 1. Introduction
