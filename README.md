@@ -1,6 +1,6 @@
  # TypeScript MERN AMAZON
 
-gofiodhbdk
+
 ## Lessions
 
 1. Introduction
