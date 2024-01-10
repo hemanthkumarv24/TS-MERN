@@ -1,6 +1,4 @@
  # TypeScript MERN AMAZON
-dfjsdbvjk
-
 
 ## Lessions
 
