@@ -1,6 +1,6 @@
  # TypeScript MERN AMAZON
 
-feeling 
+feeling
 
 
 ## Lessions
