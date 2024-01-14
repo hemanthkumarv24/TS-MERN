@@ -1,7 +1,6 @@
  # TypeScript MERN AMAZON
 
 
-FDKRE 
 
 ## Lessions
 
