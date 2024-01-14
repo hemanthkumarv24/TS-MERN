@@ -1,6 +1,6 @@
  # TypeScript MERN AMAZON
 
-dc ksd n
+
 
 ## Lessions
 
