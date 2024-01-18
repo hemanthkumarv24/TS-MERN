@@ -1,7 +1,6 @@
  # TypeScript MERN AMAZON
 
 
-gkkdhz
 ## Lessions
 
 1. Introduction
