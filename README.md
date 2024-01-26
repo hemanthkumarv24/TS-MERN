@@ -1,6 +1,6 @@
  # TypeScript MERN 
 
-dszhc
+
 
 ## Lessions
 
