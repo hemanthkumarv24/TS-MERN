@@ -2,9 +2,6 @@
 
 
 
-did gf tu
-
-
  
 ## Lessions
 
