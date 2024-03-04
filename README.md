@@ -1,6 +1,7 @@
  # TypeScript MERN 
 
 
+dbms intersnals
 
  
 ## Lessions
