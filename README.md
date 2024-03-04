@@ -1,7 +1,6 @@
  # TypeScript MERN 
 
 
-dbms intersnals
 Rm internals
 
  
