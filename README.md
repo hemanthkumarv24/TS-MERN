@@ -2,6 +2,7 @@
 
 
 dbms intersnals
+Rm internals
 
  
 ## Lessions
