@@ -1,4 +1,4 @@
-yo # TypeScript MERN 
+ # TypeScript MERN 
 
 
 
