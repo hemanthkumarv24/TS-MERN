@@ -1,5 +1,4 @@
  # TypeScript MERN 
-ಟ್ಯ
 
 
 
