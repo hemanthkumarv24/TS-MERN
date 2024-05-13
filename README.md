@@ -1,6 +1,7 @@
  # TypeScript MERN 
 
 
+start
 
 
  
