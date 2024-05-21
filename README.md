@@ -1,10 +1,7 @@
  # TypeScript MERN 
 
 
-Gopaaal CLERK is awesome as u said 
-and thanks for that 
-can you provide more of this awesome tools /technologies
-
+G
 
 
  
