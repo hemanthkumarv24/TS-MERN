@@ -1,7 +1,6 @@
  # TypeScript MERN 
 
 
-working on project
 
 
  
