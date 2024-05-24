@@ -1,7 +1,6 @@
  # TypeScript MERN 
 
 
-adsfhybyfas.dfkdbgf
 
  
 ## Lessions
