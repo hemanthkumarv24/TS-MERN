@@ -1,6 +1,5 @@
  # TypeScript MERN 
 
-f**
 
  
 ## Lessions
