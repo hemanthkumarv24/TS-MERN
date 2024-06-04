@@ -1,8 +1,6 @@
  # TypeScript MERN 
 
 
-
-added shdjdk
  
 ## Lessions
 
