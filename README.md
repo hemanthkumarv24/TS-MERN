@@ -1,6 +1,5 @@
  # TypeScript MERN 
 
-Attended my first placement drive 
  
 ## Lessions
 
