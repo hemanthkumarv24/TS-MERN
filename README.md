@@ -1,5 +1,4 @@
- # TypeScript MERN 
-shakdbsj
+ # TypeScript MERN
  
 ## Lessions
 
