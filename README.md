@@ -1,8 +1,5 @@
  # TypeScript MERN
 
-
-
-congrats
  
 ## Lessions
 
