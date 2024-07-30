@@ -1,6 +1,5 @@
  # TypeScript MERN
 
-commit at ;ast second
  
 ## Lessions
 
