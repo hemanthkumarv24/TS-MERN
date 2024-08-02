@@ -1,7 +1,7 @@
  # TypeScript MERN
 sas
 gsr
-na
+
 
  
 ## Lessions
