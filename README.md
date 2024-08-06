@@ -1,9 +1,6 @@
  # TypeScript MERN
 
 
-startups
-
-
  
 ## Lessions
 
