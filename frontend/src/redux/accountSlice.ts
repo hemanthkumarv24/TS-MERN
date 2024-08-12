@@ -5,6 +5,8 @@ export interface CounterState {
     name: string
 }
 
+
+
 const initialState: CounterState = {
     name: 'Hemanth',
 }
