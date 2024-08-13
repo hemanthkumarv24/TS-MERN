@@ -6,7 +6,7 @@ const app = express()
 app.use(
   cors({
     credentials: true,
-    origin: ['http://localhost:5173'],
+    origin: ['http://localhost:5173'],all
   })
 )
 app.get('/api/products', (req: Request, res: Response) => {
