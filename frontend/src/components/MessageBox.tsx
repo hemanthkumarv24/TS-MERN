@@ -1,6 +1,7 @@
 import { Alert } from 'react-bootstrap'
 import React from 'react'
 
+
 export default function MessageBox({
   variant = 'info',
   children,
