@@ -4,7 +4,7 @@ export default function ProductPage() {
   return (
     <div>
       <Helmet>
-        <title>ProductPage</title>
+        <title>Product Page</title>
       </Helmet>
       ProductPage
     </div>
