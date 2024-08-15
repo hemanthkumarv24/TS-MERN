@@ -17,6 +17,9 @@ import { useGetProductsQuery } from '../hooks/productHooks'
 //   | { type: 'FETCH_REQUEST' }
 //   | {
 //       type: 'FETCH_SUCCESS'
+
+
+
 //       payload: Product[]
 //     }
 //   | { type: 'FETCH_FAIL'; payload: string }
