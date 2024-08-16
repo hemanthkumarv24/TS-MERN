@@ -7,5 +7,3 @@ export const useGetProductsQuery = () =>
     queryKey: ['products'],
     queryFn: async () => (await apiClient.get<Product[]>(`api/products`)).data,
   })
-
-
