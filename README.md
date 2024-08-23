@@ -1,7 +1,6 @@
  # TypeScript MERN
 
 
-smakdsfk
  
 ## Lessions
 
