@@ -1,6 +1,4 @@
  # TypeScript MERN
-
-ಚಿ ಗಿ g
  
 ## Lessions
 
